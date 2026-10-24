@@ -5,21 +5,21 @@
     "total": 0
   },
   "functions": {
-    "coverage": "77.50%",
-    "missed": 1553,
-    "total": 6902
+    "coverage": "77.37%",
+    "missed": 1565,
+    "total": 6916
   },
-  "generated_at": "2026-10-21T15:35:01Z",
+  "generated_at": "2026-10-24T14:43:19Z",
   "lines": {
-    "coverage": "81.28%",
-    "missed": 10941,
-    "total": 58441
+    "coverage": "81.12%",
+    "missed": 11062,
+    "total": 58602
   },
   "package": "workspace",
   "regions": {
-    "coverage": "79.86%",
-    "missed": 16928,
-    "total": 84066
+    "coverage": "79.67%",
+    "missed": 17143,
+    "total": 84317
   },
-  "run_url": "https://github.com/philmcneely/AgentENV/actions/runs/39623904623"
+  "run_url": "https://github.com/philmcneely/AgentENV/actions/runs/40103208400"
 }
