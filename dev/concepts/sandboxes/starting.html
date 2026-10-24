@@ -36,7 +36,7 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-6a837ef1.js";
+            window.path_to_searchindex_js = "../../searchindex-beeabcb5.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../toc-d7504e7d.js"></script>
@@ -206,7 +206,7 @@ aenv start 018f0d93-aaaa-bbbb-cccc-0123456789ab
 <tbody>
 <tr><td><code>&lt;template-or-snapshot&gt;</code></td><td>Required</td><td>Template or snapshot ID or alias.</td></tr>
 <tr><td><code>--timeout &lt;seconds&gt;</code></td><td><code>300</code></td><td>Set the sandbox TTL. The sandbox auto-pauses when it reaches the TTL; see <a href="./auto-eviction.html">Auto-Eviction</a>.</td></tr>
-<tr><td><code>--volume &lt;mount-path&gt;=&lt;volume&gt;</code></td><td>None</td><td>Mount a persistent volume by ID or name. Repeat the option to mount multiple volumes.</td></tr>
+<tr><td><code>--volume &lt;mount-path&gt;=&lt;volume&gt;</code></td><td>None</td><td>Mount a persistent volume by ID or name. Repeat the option to mount multiple volumes. Not allowed when the snapshot already has volume mounts.</td></tr>
 <tr><td><code>-d</code>, <code>--detach</code></td><td>Off</td><td>Print the sandbox ID and exit instead of attaching an interactive shell.</td></tr>
 </tbody>
 </table>
