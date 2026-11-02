@@ -9,17 +9,17 @@
     "missed": 1540,
     "total": 6966
   },
-  "generated_at": "2026-10-30T14:57:46Z",
+  "generated_at": "2026-11-02T15:45:35Z",
   "lines": {
     "coverage": "81.49%",
-    "missed": 10977,
-    "total": 59294
+    "missed": 10976,
+    "total": 59296
   },
   "package": "workspace",
   "regions": {
-    "coverage": "80.07%",
-    "missed": 17005,
-    "total": 85335
+    "coverage": "80.08%",
+    "missed": 16998,
+    "total": 85337
   },
-  "run_url": "https://github.com/philmcneely/AgentENV/actions/runs/41073031312"
+  "run_url": "https://github.com/philmcneely/AgentENV/actions/runs/41473170411"
 }
